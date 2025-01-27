@@ -10,14 +10,11 @@ A tool to calculate airplane price estimation using regression techniques in mac
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Regression-Flight-Price/blob/00baee6b15cb839e70ec543030243dec3c4d971a/Flight_Price.ipynb)
 - To test the model please visit [this link](https://flightpricecalculator.streamlit.app/)
 - Use this data to test the model:
-    - Age: 20
-    - Mass (Kilograms): 70
-    - Height (Meters): 1.80
-    - Exercise frequency in a week: 4
-    - Diet quality: 80
-    - Sleep hours in a day: 8
-    - Smoking status: Yes
-    - Alcohol consumption in a week: 1
+    - Airline: LCC
+    - Date of Journey: 06 December 2019
+    - Flight Hours Duration: 4
+    - Flight Minutes Duration: 5
+    - Additional Info: No info
 
 <br>
 
