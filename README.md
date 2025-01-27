@@ -11,9 +11,9 @@ A tool to calculate airplane price estimation using regression techniques in mac
 - To test the model please visit [this link](https://flightpricecalculator.streamlit.app/)
 - Use this data to test the model:
     - Airline: LCC
-    - Date of Journey: 06 December 2019
-    - Flight Hours Duration: 4
-    - Flight Minutes Duration: 5
+    - Date of Journey: 14 December 2019
+    - Flight Hours Duration: 3
+    - Flight Minutes Duration: 20
     - Additional Info: No info
 
 <br>
