@@ -1,7 +1,7 @@
 # Regression: Flight Price Calculator
 
 <p style='text-align: justify;'>
-A tool to calculate airplane price estimation using regression techniques in machine learning and the Random Forest Regressor model with an R2 score of 82% and a Mean Absolute Error of 0.15. The price estimation is calculated based on the type of airline service (Low-cost carrier or Full service), booking date, flight duration, and additional services.
+A tool to calculate airplane price estimation using regression techniques in machine learning and the Random Forest Regressor model with an R2 score of 82% and a Mean Absolute Error of 0.15. The price estimation is calculated based on the type of airline service (Low-cost carrier or Full service), flight date, flight duration, and additional services.
 </p>
 
 <br>
