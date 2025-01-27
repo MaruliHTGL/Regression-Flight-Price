@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "==2.0.2"
+numpy = "==1.24.3"
+streamlit = "==1.12.0"
+joblib = "==1.2.0"
+scikit-learn = "==1.4.2"
+altair = "==4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
