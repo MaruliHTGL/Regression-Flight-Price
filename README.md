@@ -7,7 +7,7 @@ A tool to calculate airplane price estimation using regression techniques in mac
 <br>
 
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/ashishpandey2062/flight-reservation-dataset)
-- For the complete code please check [this file](https://github.com/MaruliHTGL/Regression-Healthy-Score-Test/blob/3fecb836838cc70bf206be135b22b514e57f3a50/Health%20Prediction.ipynb)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/Regression-Flight-Price/blob/00baee6b15cb839e70ec543030243dec3c4d971a/Flight_Price.ipynb)
 - To test the model please visit [this link](https://flightpricecalculator.streamlit.app/)
 - Use this data to test the model:
     - Age: 20
