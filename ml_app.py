@@ -104,4 +104,4 @@ def run_ml_app():
     final_result = int(np.expm1(prediction[0]))
 
     st.success(f'The estimated ticket price for your flight is {final_result} INR')
-    st.markdown('''<p style='text-align: justfy;'> <br> <strong>Disclaimer:</strong> This is an estimated price. The price may change over time due to several factors, such as the date of booking, flight demand, and other factors.</p>''', unsafe_allow_html=True)
+    st.markdown('''<p style='text-align: justify;'> <br> <strong>Disclaimer:</strong> This is an estimated price. The price may change over time due to several factors, such as the date of booking, flight demand, and other factors.</p>''', unsafe_allow_html=True)
