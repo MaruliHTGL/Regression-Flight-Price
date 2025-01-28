@@ -65,6 +65,7 @@ def run_ml_app():
     # Map geography to one-hot encoding
     airline_dict = {'Full service'                     : [1, 0, 0, 0, 0, 0], 
                     'Full service business'            : [0, 1, 0, 0, 0, 0], 
+                    'Full service premium economy'     : [0, 0, 1, 0, 0, 0],
                     'LCC'                              : [0, 0, 0, 1, 0, 0],
                     'Multiple carriers'                : [0, 0, 0, 0, 1, 0],
                     'Multiple carriers premium economy': [0, 0, 0, 0, 0, 1]
